@@ -1,1 +1,4 @@
-# this is a test
+# Session Hijack using XSS
+
+![Session Hijack](images/session-hijacking.png)
+
