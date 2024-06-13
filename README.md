@@ -79,10 +79,10 @@ To begin the attack, the attacker needs an account on the WebGoat application. U
 ```url
 http://192.168.28.132:8080/WebGoat/
 ```
-![Attacker Login](images/attacker-login.png)  
+![Attacker Login](images/attacker-login.PNG)  
 
 The attacker registers a new account by clicking the register button and providing the necessary details. This account will be used to identify and exploit vulnerabilities in the web application.
-![Attacker Register](images/attacker-register.png)  
+![Attacker Register](images/attacker-register.PNG)  
 
 ### Phase 4: Identify XSS Vulnerability
 The next step is to identify a vulnerability in the WebGoat application. By navigating to the "Cross Site Scripting (stored)" section under "Injection," the attacker accesses a simulated forum where users can post comments.
