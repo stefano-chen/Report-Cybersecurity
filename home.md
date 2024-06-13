@@ -77,7 +77,7 @@ To begin the attack, the attacker needs an account on the WebGoat application. U
 ```url
 http://192.168.28.132:8080/WebGoat/
 ```
-![Attacker Login](images/attacker-login.png)  
+![Attacker Login](images/attacker-login.PNG)  
 
 The attacker registers a new account by clicking the register button and providing the necessary details. This account will be used to identify and exploit vulnerabilities in the web application.
 ![Attacker Register](images/attacker-register.png)  
