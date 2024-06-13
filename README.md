@@ -118,6 +118,7 @@ the attacker creates a simple HTTPS server listening on port 9000. This server w
 
 ### Phase 7: Target Access Comment
 An unsuspecting user on the Windows VM visits the WebGoat application and views the forum with the injected comment. When the user's browser renders the comment, the embedded script executes, sending the session cookie to the attacker's server. The attacker observes the incoming request on their HTTP server, capturing the session cookie.
+
 ![cookie](images/cookie.PNG)  
 
 
